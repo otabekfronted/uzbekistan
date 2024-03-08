@@ -1,0 +1,29 @@
+* {
+    box-sizing: border-box;
+    font-family: sans-serif;
+    list-style: none;
+}
+
+p {
+    line-height: 25px;
+    font-weight: 600;
+}
+
+ul li a {
+    padding: 8px 12px;
+    background-color: coral;
+    border-radius: 5px;
+    line-height: 30px;
+    text-decoration: none;
+    display: inline-block;
+    color: aliceblue;
+}
+
+ul li a:hover {
+    background-color: rgb(177, 80, 45);
+}
+
+.aholi {
+    background-color: white;
+    color: black;
+}
